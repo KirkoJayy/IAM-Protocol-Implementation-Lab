@@ -191,6 +191,8 @@ Two parties:
 4. Add to **Allowed Callback URLs**: `https://oidcdebugger.com/debug`
 5. Click **Save Changes**
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/ac156d6338589764dfa35f6ce995638b615a5ca2/02-auth0-oidc-callback-url.png)
+
 **Step 2 — Configure the Relying Party**
 
 Navigate to [oidcdebugger.com](https://oidcdebugger.com) and fill in:
