@@ -28,6 +28,10 @@ Everything runs in the browser using the Auth0 free tier.
 
 <br>
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/7a0304d646a148205db5ea5bdb5fa24e99493053/01-auth0-applications-dashboard.png)
+
+<br>
+
 
 ## 🧪 Architecture Overview
  
