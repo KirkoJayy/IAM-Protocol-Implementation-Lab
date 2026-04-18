@@ -324,6 +324,8 @@ Click **Send** — copy the `access_token` from the JSON response.
 
 Paste the token into the **Encoded** box. The critical observation is in the payload.
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/c6c7e819a607b31cfd4cf1fb930cca533c438783/05-auth0-api-access-jwt-decoded.png)
+
 ---
 
 ### Access Token (JWT) — Decoded Payload
