@@ -320,6 +320,8 @@ Navigate to [hoppscotch.io](https://hoppscotch.io) and configure:
 
 Click **Send** — copy the `access_token` from the JSON response.
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/50d14006b3744b29fd83f58c32a40a619fe62af5/01-hoppscotch-token-request.png)
+
 **Step 4 — Decode and Analyze at jwt.io**
 
 Paste the token into the **Encoded** box. The critical observation is in the payload.
