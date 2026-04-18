@@ -212,6 +212,8 @@ Navigate to [oidcdebugger.com](https://oidcdebugger.com) and fill in:
 3. Copy the **ID Token** (the large green string on the success screen)
 4. Paste it at [jwt.io](https://jwt.io) → inspect the **Decoded** payload on the right
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/d9001e799994ade5d31888e4860e9bf1ac2bd7a2/03-oidcdebugger-success-id-token.png)
+
 ---
 
 ### ID Token (JWT) — Decoded Payload
