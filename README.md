@@ -6,13 +6,13 @@
 
 ## 📋 Table of Contents
 
-- [Lab 1 — SAML 2.0 Enterprise SSO](#lab-1--saml-20-enterprise-sso)
-- [Lab 2 — OpenID Connect OIDC](#lab-2--openid-connect-oidc)
-- [Lab 3 — OAuth 2.0 Machine-to-Machine](#lab-3--oauth-20-machine-to-machine)
-- [Protocol Comparison](#protocol-comparison)
-- [Tools Used](#tools-used)
-- [Prerequisites](#prerequisites)
-- [Skills Demonstrated](#skills-demonstrated)
+- Lab 1 — SAML 2.0 Enterprise SSO
+- Lab 2 — OpenID Connect OIDC
+- Lab 3 — OAuth 2.0 Machine-to-Machine
+- Protocol Comparison
+- Tools Used
+- Prerequisites
+- Skills Demonstrated
 
 <br>
 
