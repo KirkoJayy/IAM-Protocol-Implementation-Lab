@@ -123,6 +123,8 @@ Navigate to [samlsp.com](https://samlsp.com) and collect:
 3. Authenticate via Auth0
 4. Find the HTTP `POST` request highlighted in **orange** in SAML-tracer → click the **SAML** tab
 
+![image alt](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/blob/d7b4b20d6ec45e4991fc8a46e23fa804d3df8776/06-saml-tracer-assertion-capture.png)
+
 ---
 
 ### What the SAML Assertion Looks Like
